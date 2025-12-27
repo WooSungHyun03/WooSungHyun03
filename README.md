@@ -5,7 +5,7 @@
 </td>
 <td>
 
-### **Woo SungHyun**  
+### **Woo SungHyeon**  
 Undergraduate Researcher @ M4ML  
 Computer Engineering, Dong-A University
 
@@ -47,10 +47,6 @@ Computer Engineering, Dong-A University
 Latest posts — auto updated
 
 <!-- BLOG-POST-LIST:START -->
-- [Another Sample Life Post](https://woosunghyeon03.github.io/posts/life-sample-2/)
-- [Sample Study Post](https://woosunghyeon03.github.io/posts/study-sample/)
-- [일상 이야기 샘플](https://woosunghyeon03.github.io/posts/life-sample/)
-- [3D Vision 논문 리뷰 샘플](https://woosunghyeon03.github.io/posts/paper-review-3d-vision-sample/)
 <!-- BLOG-POST-LIST:END -->
 
 
