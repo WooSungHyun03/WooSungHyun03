@@ -1,10 +1,15 @@
-<div align="left">
-  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90">
 
-  ### **Woo SungHyun**
-  Undergraduate Researcher @ M4ML  
-  Computer Engineering, Dong-A University
+<div style="display:flex; align-items:center;">
 
+  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90" style="margin-right:20px; border-radius:4px;">
+
+  <div>
+    <h3 style="margin: 0;">Woo SungHyun</h3>
+    <p style="margin: 0;">Undergraduate Researcher @ M4ML</p>
+    <p style="margin: 0;">Computer Engineering, Dong-A University</p>
+  </div>
+
+</div>
 
 
 
