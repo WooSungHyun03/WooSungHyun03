@@ -44,7 +44,7 @@ Computer Engineering, Dong-A University
   </a>
 </div>
 
-Latest posts — auto updated
+Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
 - [Another Sample Life Post](https://woosunghyeon03.github.io/posts/life-sample-2/)
