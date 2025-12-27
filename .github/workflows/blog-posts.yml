@@ -1,0 +1,14 @@
+name: Update README with blog posts
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: gautamkrishnar/blog-post-workflow@master
+      with:
+        feed_list: "https://woosunghyeon03.github.io/feed.xml"
