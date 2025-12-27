@@ -1,21 +1,11 @@
 <div align="left">
+  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90">
 
-<table>
-<tr>
-<td width="110px">
-  <img src="https://github.com/WooSungHyun03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="100">
-</td>
-<td>
+  ### **Woo SungHyun**
+  Undergraduate Researcher @ M4ML  
+  Computer Engineering, Dong-A University
 
-### **Woo SungHyun**
-Undergraduate Researcher @ M4ML  
-Computer Engineering, Dong-A University  
 
-</td>
-</tr>
-</table>
-
-</div>
 
 
 ## Focus
@@ -26,14 +16,9 @@ Computer Engineering, Dong-A University
 
 ## Tech Stack
 
-| Category | Stack |
-|----------|-------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> |
-| **Frameworks / Libraries** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> |
-| **OS** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white"> |
-
-
+| Languages | Frameworks / Libraries | OS | Tools |
+|-----------|------------------------|----|-------|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white"> |
 
 
 ## BOJ
@@ -46,10 +31,13 @@ Computer Engineering, Dong-A University
 
 
 ## Blog
-<a href="https://woosunghyeon03.github.io">
-  <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white">
-</a>
-> Latest 4 posts (auto update via GitHub Actions)
+
+  <a href="https://woosunghyeon03.github.io">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white">
+  </a>
+</div>
+
+Latest posts — auto updated
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
