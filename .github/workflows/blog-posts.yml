@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # 수동 실행 가능
 
 permissions:
-  contents: write           # <-- 요 줄이 핵심!
+  contents: write           # 혹시 모를 대비용. 그래도 넣어두자.
 
 jobs:
   update-blog-posts:
@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4     # v4로 업데이트
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false   # 우리가 직접 토큰 쓸거라 false
 
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
@@ -22,3 +24,5 @@ jobs:
           feed_list: "https://woosunghyeon03.github.io/feed.xml"
           max_post_count: 5
           commit_message: "chore: update blog posts in README"
+          readme_path: "./README.md"
+          gh_token: ${{ secrets.PROFILE_GH_TOKEN }}  # ← 방금 만든 시크릿 사용
