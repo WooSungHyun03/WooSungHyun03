@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90">
-  
+
   ### **Woo SungHyun**
   Undergraduate Researcher @ M4ML  
   Computer Engineering, Dong-A University
@@ -12,6 +12,17 @@
 - **3D Vision**
 - **3D Reconstruction**
 - **Novel View Synthesis**
+
+---
+
+## Tech Stack
+<div align="center">
+
+`Python` · `C/C++`  
+`PyTorch`  
+`Linux (Ubuntu)` · `Docker`
+
+</div>
 
 ---
 
@@ -33,4 +44,5 @@
 ---
 
 ## Contact
-- `wshyun314@gmail.com`
+- `wshyun314@gmail.com`  
+- https://woosunghyeon03.github.io
