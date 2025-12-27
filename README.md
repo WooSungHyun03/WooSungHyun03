@@ -17,10 +17,9 @@
 ## 🧭 About Me
 
 - 🎓 Dong-A University — Computer Engineering  
-- 🔬 Undergraduate researcher in **3D Vision & AI**  
-- 📌 관심 분야: **3D Reconstruction, NeRF, 3D Gaussian Splatting, Novel View Synthesis**
-- 🐧 실험 환경: Ubuntu · Docker · PyTorch 기반  
-- 🖥️ 개인 블로그에서 연구 진행 및 정리:  
+- 🔬 Undergraduate researcher in **3D Vision & AI** (M4ML Lab)  
+- 📌 관심 분야: **3D Reconstruction, NeRF, 3D Gaussian Splatting, Novel View Synthesis**   
+- 🖥️ 연구/공부 기록과 정리는 블로그에 정리:  
   **https://woosunghyeon03.github.io**
 
 ---
@@ -63,6 +62,14 @@
 |------|------|
 | 📮 Email | `wshyun314@gmail.com` |
 | 🏠 Blog | https://woosunghyeon03.github.io |
+
+---
+
+<div align="center">
+
+_thanks for visiting 🌱_
+
+</div>
 
 ---
 
