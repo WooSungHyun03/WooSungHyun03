@@ -6,14 +6,12 @@
   Computer Engineering, Dong-A University
 </div>
 
----
 
 ## Focus
 - **3D Vision**
 - **3D Reconstruction**
 - **Novel View Synthesis**
 
----
 
 ## Tech Stack
 
@@ -30,14 +28,12 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">  
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 
----
 
 ## BOJ Tier
 - <a href="https://solved.ac/wshyun314">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wshyun314" width="200">
   </a>
 
----
 
 ## Blog
 
