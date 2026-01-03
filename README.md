@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="90">
-  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.jpg" width="90">
+  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.png" width="90">
 </td>
 <td>
 
