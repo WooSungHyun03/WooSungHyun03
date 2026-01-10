@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [[Paper Review] Segment Any 3D Gaussians](https://woosunghyeon03.github.io/posts/Segment-Any-3D-Gaussian/)
+- [[Study] pinhole camera model](https://woosunghyeon03.github.io/posts/pinhole-camera-model/)
+- [[Life] 논문 세미나에 대하여](https://woosunghyeon03.github.io/posts/about-paper-seminar/)
 - [[Paper Review] MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction](https://woosunghyeon03.github.io/posts/MILo/)
-- [[Paper Review] Attention Is All You Need](https://woosunghyeon03.github.io/posts/Attention-is-all-you-need/)
-- [[Paper Review] Segment Anything](https://woosunghyeon03.github.io/posts/Segment-Anything/)
+- [[Paper Review] Attention Is All You Need](https://woosunghyeon03.github.io/posts/attention-is-all-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 
