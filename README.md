@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Clean-GS/)
 - [[Study] pinhole camera model](https://woosunghyeon03.github.io/posts/pinhole-camera-model/)
 - [[Life] 논문 세미나에 대하여](https://woosunghyeon03.github.io/posts/about-paper-seminar/)
 - [[Paper Review] MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction](https://woosunghyeon03.github.io/posts/MILo/)
-- [[Paper Review] Attention Is All You Need](https://woosunghyeon03.github.io/posts/attention-is-all-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 
