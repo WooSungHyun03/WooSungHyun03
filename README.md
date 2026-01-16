@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [글로벌 창업 캠프 2일차](https://woosunghyeon03.github.io/posts/Japan-life2/)
-- [글로벌 창업 캠프 1일차](https://woosunghyeon03.github.io/posts/Japan-life1/)
+- [[Life] 창업에 대하여](https://woosunghyeon03.github.io/posts/About-Startup/)
 - [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Clean-GS/)
 - [[Study] pinhole camera model](https://woosunghyeon03.github.io/posts/pinhole-camera-model/)
+- [[Life] 논문 세미나에 대하여](https://woosunghyeon03.github.io/posts/about-paper-seminar/)
 <!-- BLOG-POST-LIST:END -->
 
 
