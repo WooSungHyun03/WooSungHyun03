@@ -1,11 +1,11 @@
 <table>
 <tr>
 <td width="90">
-  <img src="https://github.com/WooSungHyeon03/WooSungHyeon03.github.io/blob/main/assets/img/picture.png" width="90">
+  <img src="https://github.com/WooSungHyun03/WooSungHyun03.github.io/blob/main/assets/img/picture.png" width="90">
 </td>
 <td>
 
-### **Woo SungHyeon**  
+### **Woo SungHyun**  
 Undergraduate Student @ M4ML  
 Computer Engineering, Dong-A University
 
@@ -39,7 +39,7 @@ Computer Engineering, Dong-A University
 
 ## Blog
 
-  <a href="https://woosunghyeon03.github.io">
+  <a href="https://woosunghyun03.github.io">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white">
   </a>
 </div>
@@ -47,10 +47,10 @@ Computer Engineering, Dong-A University
 Latest posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [[Paper Review] Mip-Splatting: Alias-free 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Mip-Splatting/)
-- [[Life] 창업에 대하여](https://woosunghyeon03.github.io/posts/About-Startup/)
-- [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyeon03.github.io/posts/Clean-GS/)
-- [[Study] pinhole camera model](https://woosunghyeon03.github.io/posts/pinhole-camera-model/)
+- [[Paper Review] Mip-Splatting: Alias-free 3D Gaussian Splatting](https://woosunghyun03.github.io/posts/Mip-Splatting/)
+- [[Life] 창업에 대하여](https://woosunghyun03.github.io/posts/About-Startup/)
+- [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyun03.github.io/posts/Clean-GS/)
+- [[Study] pinhole camera model](https://woosunghyun03.github.io/posts/pinhole-camera-model/)
 <!-- BLOG-POST-LIST:END -->
 
 
