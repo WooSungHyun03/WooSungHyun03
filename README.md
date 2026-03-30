@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="90">
-  <img src="https://github.com/WooSungHyun03/WooSungHyun03.github.io/blob/main/assets/img/picture.png" width="90">
+  <img src="https://github.com/WooSungHyun03/WooSungHyun03/SunghyunWoo.png" width="90">
 </td>
 <td>
 
@@ -26,13 +26,3 @@ Computer Engineering, Dong-A University
 | Languages | Frameworks | OS | Tools |
 |-----------|------------------------|----|-------|
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white"> |
-
-
-<!-- BLOG-POST-LIST:START -->
-- [[Paper Review] Mip-Splatting: Alias-free 3D Gaussian Splatting](https://woosunghyun03.github.io/posts/Mip-Splatting/)
-- [[Life] 창업에 대하여](https://woosunghyun03.github.io/posts/About-Startup/)
-- [[Paper Review] Clean-GS: Semantic Mask-Guided Pruning for 3D Gaussian Splatting](https://woosunghyun03.github.io/posts/Clean-GS/)
-- [[Study] pinhole camera model](https://woosunghyun03.github.io/posts/pinhole-camera-model/)
-<!-- BLOG-POST-LIST:END -->
-
-
