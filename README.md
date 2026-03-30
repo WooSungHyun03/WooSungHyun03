@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="90">
-  <img src="https://github.com/WooSungHyun03/WooSungHyun03/SunghyunWoo.png" width="90">
+  <img src="SunghyunWoo.png" width="90">
 </td>
 <td>
 
